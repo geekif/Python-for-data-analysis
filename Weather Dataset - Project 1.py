@@ -91,6 +91,4 @@ data[data.Weather == 'Snow']
 
 data[data.Weather.str.contains('Snow')]
 
-# all instances when 'Wind Speed is above 24' and 'Visibility is 25'
-
 
